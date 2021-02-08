@@ -1,0 +1,23 @@
+{
+  "name": "coffeeshop-radar-api",
+  "version": "1.0.0",
+  "description": "Mock API for educational purposes",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hidayatabisena/coffeeshop-radar-api.git"
+  },
+  "author": "Hidayat Abisena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hidayatabisena/coffeeshop-radar-api/issues"
+  },
+  "homepage": "https://github.com/hidayatabisena/coffeeshop-radar-api#readme"
+}

@@ -1,0 +1,108 @@
+{
+    "coffeeshop": [
+      {
+        "id": 0,
+        "name": "Makmur Jaya",
+        "instagram": "https://www.instagram.com/makmurjayacoffee/?hl=en",
+        "favorite": [
+          "Magic",
+          "Ice Coffee",
+          "Cafe Latte",
+          "V60 Japanese"
+        ],
+        "addresses": [
+          {
+            "addressId": 0,
+            "number": "51",
+            "line1": "Jl. lengkong Besar",
+            "line2": "Lengkong",
+            "city": "Bandung"
+          },
+          {
+            "addressId": 1,
+            "number": "2",
+            "line1": "Jl. Lemah Nendeut",
+            "line2": "Surya Sumantri",
+            "city": "Bandung"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Hagia Terra",
+        "instagram": "https://www.instagram.com/hagiaterra/?hl=en",
+        "favorite": [
+          "Cerise Reverie",
+          "Bakmi Briscet",
+          "Ice Capuccino",
+          "Cloudy Sunrise & Vagary"
+        ],
+        "addresses": [
+          {
+            "addressId": 0,
+            "number": "62",
+            "line1": "Lengkong Besar",
+            "line2": "Bandung"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Masagi Coffee",
+        "instagram": "https://www.instagram.com/masagikoffee/?hl=en",
+        "favorite": [
+          "Pannacota Dessert",
+          "Magic Coffee",
+          "Cafe Latte",
+          "Green Tea Latte"
+        ],
+        "addresses": [
+          {
+            "addressId": 0,
+            "number": "1B",
+            "line1": "Jl. Gunung Kareumbi",
+            "line2": "Ciumbuleuit",
+            "city": "Bandung"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Kanoko Coffee",
+        "instagram": "https://www.instagram.com/kanokocoffee/?hl=en",
+        "favorite": [
+          "Butterscotch",
+          "Ice Long Black"
+        ],
+        "addresses": [
+          {
+            "addressId": 0,
+            "number": "24",
+            "line1": "Jl. Dago Asri 1",
+            "line2": "Coblong",
+            "city": "Bandung"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Hi.brew Coffee",
+        "instagram": "https://www.instagram.com/hi.brewcoffee/?hl=en",
+        "favorite": [
+          "Creme Brulee",
+          "Ice Americano",
+          "Ice Capuccino",
+          "Cafe Latte"
+        ],
+        "addresses": [
+          {
+            "addressId": 0,
+            "number": "43",
+            "line1": "Jl. Boscha",
+            "line2": "Pasteur, Sukajadi",
+            "city": "Bandung"
+          }
+        ]
+      }
+    ]
+  }
